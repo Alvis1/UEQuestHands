@@ -30,6 +30,7 @@ Video sources used:
 src: https://youtu.be/hZu0Rg_1hyE?si=OV_x4jtGaq9TB94L
 -> Project Settings -> Rendering -> Postprocessing -> Enable alpha channel support ... -> Allow through tonemapper
 -> Project Settings -> Meta XR -> Mobile -> Supported Meta Quest devices -> + x3
+
     -> Composite Depth
     -> Hand Tracking Support -> Hands Only
     -> Hand Tracking Frequency -> HIGH
