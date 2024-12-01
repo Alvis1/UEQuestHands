@@ -51,7 +51,9 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/android-support-for-
 
 Youtube guide: 
 https://www.youtube.com/watch?v=NfI_WlKFUak&ab_channel=UnrealEngineVR
- 
+
+## This look promising:
+https://dev.epicgames.com/community/learning/tutorials/y4vB/unreal-engine-5-4-x-for-meta-quest-vr
                               
 
 
