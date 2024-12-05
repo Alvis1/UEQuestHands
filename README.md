@@ -55,6 +55,41 @@ https://www.youtube.com/watch?v=znvDJ9E-SFk&t=1941s&ab_channel=ShimmeringTrashpi
 
 Google Doc:
 https://docs.google.com/document/d/10JZ9Bs3-H0eeujtvEnGAHBXnOusnP6inLcJS7UXOnLg/edit?tab=t.0#heading=h.fo90sywkll5v
+
+Summary: 
+
+    -> Java runtime: OpenJDK 17.0.6 2023-01-17 
+    -> Android Studio Version: Flamingo 2022.2.1 Patch 2 May 24, 2023
+          - SDK Platforms Tab
+             -> Uncheck Android API 35, Check Android 12L
+          - SDK Tools Tab
+             -> Android SDK Build-Tools 35-rc3 -> Uncheck 35.0.0, Check 32.0.0
+          - NDK
+             -> Check 25.1.8937393
+          - Android SDK Command Line Tools (latest) 
+             -> Android SDK Command-line Tools (latest) Version 13
+          - CMake
+             -> 3.22.1, 3.10.2.4988404
+          -Android SDK Platform-Tools (The Version column will be 35.0.2)
+
+-> Unreal settings
+ -> Platforms -> Android -> 
+Minimum SDK Version (26=8.0.0, 27=8.1.0, 28=9, 29=10, 30=11, 31=12): 30
+Target SDK Version (26=8.0.0, 27=8.1.0, 28=9, 29=10, 30=11, 31=12): 32
+ -> Package game data inside .apk? check
+
+-> Location of Android SDK
+C:/Users/006504390/AppData/Local/Android/Sdk
+-> Location of Android NDK
+C:/Users/006504390/AppData/Local/Android/Sdk/ndk/25.1.8937393
+-> Location of JAVA
+C:/Program Files/Java/jdk-17
+-> SDK API Level
+latest
+-> NDK API Level
+android-32
+
+
                               
 
 
