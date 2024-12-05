@@ -1,6 +1,7 @@
 ## Hand tracking with Unreal Engine 5.4 and Quest 3, 2.
 
-
+## Recommendations on creating content for Quest3:
+https://forums.unrealengine.com/t/how-to-game-development-best-practices-for-quest-3-using-unreal-engine-5/2056737
 
 
 Video sources used: 
