@@ -12,6 +12,13 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "Postshot",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	],
 	"TargetPlatforms": [
