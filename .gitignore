@@ -72,4 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Config/DefaultEngine.ini
+Config/DefaultInput.ini
+Config/DefaultGame.ini
+Config/DefaultGame.ini
+Config/DefaultInput.ini
